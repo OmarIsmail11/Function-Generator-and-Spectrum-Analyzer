@@ -31,10 +31,19 @@ This was the final project of the EECS100 - Laboratory Course.
 ### 1. Download and Install LabVIEW
 - Visit the NI LabVIEW official website and download the appropriate version for your system.
 
-### 2. 
-
-Refer to the included User Manual PDF for detailed instructions on:
+### 2. Clone the repository
+```
+ git clone https://github.com/OmarIsmail11/Function-Generator-and-Spectrum-Analyzer
+```
+### 3. Navigate to the project directory
+```
+ cd FolderName
+```
+### 4. Open the `Function Generator & Spectrum Analyzer.vi` file
+### 5. Refer to the included User Manual PDF for detailed instructions on:
 - Running the function generator
 - Interpreting the spectrum analyzer output
 - Customizing waveform parameters
+
+![image](https://github.com/user-attachments/assets/6f91a8ed-a0e4-4121-a52e-c4220483c44f)
 
